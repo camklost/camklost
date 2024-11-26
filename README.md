@@ -1,5 +1,5 @@
-# **Cameron Doe**  
-**Data Analyst | SQL Enthusiast | Power BI Expert**  
+# **Cameron Klostergaard**  
+**Data Analyst | Data Scientist**  
 
 Welcome to my GitHub portfolio! I am a data professional with dual bachelor’s degrees in **Statistics** and **Economics**, backed by **professional certificates in Data Science** and extensive experience in retail banking and finance. Passionate about leveraging data for impactful business solutions, I am currently transitioning into a full-time data analytics role to expand my technical expertise and contribute to data-driven decision-making.
 
@@ -20,11 +20,11 @@ Here are some of my featured projects, showcasing skills in SQL, R, Excel, and m
 
 | **Project**                         | **Description**                                                                                                                                  | **Tools**       | **Link**                                                   |
 |-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----------------------------------------------------------|
-| **[Movie Recommendation System](#)** | Built a recommendation engine analyzing user ratings. Explored trade-offs between accuracy and efficiency while handling large datasets.         | R               | [View Project](https://github.com/your-repo-link)         |
-| **[Melbourne House Price Prediction](#)** | Predicted house prices using regression, k-nearest neighbors, and random forest models. Included detailed insights in an R Markdown report.      | R               | [View Project](https://github.com/your-repo-link)         |
-| **[SQL Retail Sales Analysis](#)**   | Analyzed retail data to uncover sales trends, customer behavior, and profitability metrics using SQL queries.                                    | SQL             | [View Project](https://github.com/your-repo-link)         |
-| **[Library Management System](#)**   | Designed a library management system with SQL to track issued books, manage inventory, and monitor borrowing patterns.                          | SQL             | [View Project](https://github.com/your-repo-link)         |
-| **[Customer Churn Analysis](#)**     | Conducted churn analysis in Excel, applying statistical techniques and creating visualizations to identify patterns and risk factors.            | Excel           | [View Project](https://github.com/your-repo-link)         |
+| **[Movie Recommendation System](#)** | Built a recommendation engine analyzing user ratings. Explored trade-offs between accuracy and efficiency while handling large datasets.         | R               | [View Project](https://github.com/camklost/Movie-Recommendation-Project)        |
+| **[Melbourne House Price Prediction](#)** | Predicted house prices using regression, k-nearest neighbors, and random forest models. Included detailed insights in an R Markdown report.      | R               | [View Project](https://github.com/camklost/Melbourne-House-Prices-Project)         |
+| **[SQL Retail Sales Analysis](#)**   | Analyzed retail data to uncover sales trends, customer behavior, and profitability metrics using SQL queries.                                    | SQL             | [View Project](https://github.com/camklost/sql_retail_sales)         |
+| **[Library Management System](#)**   | Designed a library management system with SQL to track issued books, manage inventory, and monitor borrowing patterns.                          | SQL             | [View Project](https://github.com/camklost/Library-Management-System---SQL)         |
+| **[Customer Churn Analysis](#)**     | Conducted churn analysis in Excel, applying statistical techniques and creating visualizations to identify patterns and risk factors.            | Excel           | [View Project](https://github.com/camklost/Customer-Churn-Analysis---Excel)         |
 
 ---
 
@@ -38,8 +38,8 @@ Here are some of my featured projects, showcasing skills in SQL, R, Excel, and m
 
 ## **🤝 Let's Connect**
 I’m always open to collaboration and learning opportunities!  
-- **[LinkedIn](https://linkedin.com/in/your-profile)**  
-- **[Email](mailto:your-email@example.com)**  
+- **[LinkedIn](https://www.linkedin.com/in/cameron-klostergaard-457a9326b/)**  
+- **[Email](mailto:cameron_klostergaard@outlook.com)**  
 
 ---
 
